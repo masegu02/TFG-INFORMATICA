@@ -1,0 +1,9 @@
+# Archivos temporales de Excel
+~$*.xlsx
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
