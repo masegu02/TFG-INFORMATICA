@@ -1,0 +1,80 @@
+feature,importance,modelo,calle
+Paseo de la Castellana_N-S_t-1,206.24237670898438,XGBoost,Paseo de la Castellana
+Calle Hermanos García Noblejas_S-N_t-1,86.08963470458984,XGBoost,Paseo de la Castellana
+Calle Costa Rica_E-O_t-1,33.78718490600586,XGBoost,Paseo de la Castellana
+Calle Costa Rica_E-O_t-3,13.931816864013673,XGBoost,Paseo de la Castellana
+Avenida Cardenal Herrera Oria_E-O_t-1,6.288481903076172,XGBoost,Paseo de la Castellana
+Calle Costa Rica_E-O_t-2,5.50538330078125,XGBoost,Paseo de la Castellana
+Calle Arturo Soria_S-N_t-1,4.824119567871094,XGBoost,Paseo de la Castellana
+Paseo de la Castellana_N-S_t-2,3.753771209716797,XGBoost,Paseo de la Castellana
+Avenida Cardenal Herrera Oria_E-O_t-3,3.359021759033203,XGBoost,Paseo de la Castellana
+Paseo de la Castellana_S-N_t-2,3.334680938720703,XGBoost,Paseo de la Castellana
+dia_semana,3.2724578857421873,XGBoost,Paseo de la Castellana
+Avenida Alfonso XIII_S-N_t-1,2.9665985107421875,XGBoost,Paseo de la Castellana
+Calle Costa Rica_O-E_t-2,2.6213333129882814,XGBoost,Paseo de la Castellana
+Calle Hermanos García Noblejas_S-N_t-3,2.445123291015625,XGBoost,Paseo de la Castellana
+Calle Arturo Soria_N-S_t-3,2.302862548828125,XGBoost,Paseo de la Castellana
+Calle Príncipe de Vergara_S-N_t-2,2.2863624572753904,XGBoost,Paseo de la Castellana
+Calle Arturo Soria_S-N_t-2,1.914177703857422,XGBoost,Paseo de la Castellana
+Calle José Abascal_O-E_t-1,1.8981781005859375,XGBoost,Paseo de la Castellana
+Calle Hermanos García Noblejas_N-S_t-2,1.7284111022949218,XGBoost,Paseo de la Castellana
+Calle Costa Rica_O-E_t-1,1.5793724060058594,XGBoost,Paseo de la Castellana
+Avenida General Perón_E-O_t-3,1.5700798034667969,XGBoost,Paseo de la Castellana
+Calle Génova_E-O_t-2,1.4645263671875,XGBoost,Paseo de la Castellana
+Calle Príncipe de Vergara_S-N_t-3,1.3510986328125,XGBoost,Paseo de la Castellana
+Calle José Abascal_O-E_t-3,1.062065887451172,XGBoost,Paseo de la Castellana
+Avenida Alfonso XIII_N-S_t-1,1.0110275268554687,XGBoost,Paseo de la Castellana
+Calle Príncipe de Vergara_N-S_t-3,0.9890266418457031,XGBoost,Paseo de la Castellana
+Avenida Brasilia_S-N_t-1,0.6974571228027344,XGBoost,Paseo de la Castellana
+Calle Génova_O-E_t-2,0.6754531860351562,XGBoost,Paseo de la Castellana
+Calle Arturo Soria_N-S_t-2,0.6115867614746093,XGBoost,Paseo de la Castellana
+Calle Velázquez_S-N_t-2,0.5168304443359375,XGBoost,Paseo de la Castellana
+Calle Príncipe de Vergara_S-N_t-1,0.4832855224609375,XGBoost,Paseo de la Castellana
+Calle Príncipe de Vergara_N-S_t-1,0.45938644409179685,XGBoost,Paseo de la Castellana
+Avenida General Perón_O-E_t-2,0.4454032897949219,XGBoost,Paseo de la Castellana
+Calle Hermanos García Noblejas_S-N_t-2,0.39554672241210936,XGBoost,Paseo de la Castellana
+Avenida General Perón_E-O_t-2,0.32806854248046874,XGBoost,Paseo de la Castellana
+Avenida General Perón_E-O_t-1,0.3139007568359375,XGBoost,Paseo de la Castellana
+Calle Serrano_N-S_t-2,0.29206314086914065,XGBoost,Paseo de la Castellana
+Calle López de Hoyos_O-E_t-1,0.24183578491210939,XGBoost,Paseo de la Castellana
+Calle Costa Rica_O-E_t-3,0.23096466064453125,XGBoost,Paseo de la Castellana
+Calle Génova_O-E_t-1,0.2057891845703125,XGBoost,Paseo de la Castellana
+Avenida Cardenal Herrera Oria_O-E_t-3,0.18961944580078124,XGBoost,Paseo de la Castellana
+Calle Génova_E-O_t-1,0.18296432495117188,XGBoost,Paseo de la Castellana
+Calle Hermanos García Noblejas_N-S_t-3,0.13360137939453126,XGBoost,Paseo de la Castellana
+AEMET_tmed,0.11463088989257812,XGBoost,Paseo de la Castellana
+Paseo de la Castellana_N-S_t-3,0.10710525512695312,XGBoost,Paseo de la Castellana
+Avenida Brasilia_S-N_t-3,0.10067138671875,XGBoost,Paseo de la Castellana
+Avenida Brasilia_N-S_t-1,0.09616851806640625,XGBoost,Paseo de la Castellana
+Avenida Alfonso XIII_N-S_t-2,0.08985061645507812,XGBoost,Paseo de la Castellana
+Calle José Abascal_O-E_t-2,0.08605804443359374,XGBoost,Paseo de la Castellana
+Calle Velázquez_S-N_t-1,0.07812347412109374,XGBoost,Paseo de la Castellana
+Calle Génova_E-O_t-3,0.07569503784179688,XGBoost,Paseo de la Castellana
+Paseo de la Castellana_S-N_t-1,0.07328033447265625,XGBoost,Paseo de la Castellana
+Calle López de Hoyos_E-O_t-1,0.0694976806640625,XGBoost,Paseo de la Castellana
+Calle Serrano_N-S_t-3,0.0362335205078125,XGBoost,Paseo de la Castellana
+Calle López de Hoyos_E-O_t-3,0.02818145751953125,XGBoost,Paseo de la Castellana
+Avenida Alfonso XIII_S-N_t-2,0.00013427734375,XGBoost,Paseo de la Castellana
+festivo,0.0,XGBoost,Paseo de la Castellana
+Avenida Cardenal Herrera Oria_O-E_t-2,-0.006909942626953125,XGBoost,Paseo de la Castellana
+Calle Príncipe de Vergara_N-S_t-2,-0.017867279052734376,XGBoost,Paseo de la Castellana
+Calle López de Hoyos_E-O_t-2,-0.019580841064453125,XGBoost,Paseo de la Castellana
+Calle López de Hoyos_O-E_t-2,-0.020349884033203126,XGBoost,Paseo de la Castellana
+Avenida Cardenal Herrera Oria_O-E_t-1,-0.021369171142578126,XGBoost,Paseo de la Castellana
+AEMET_prec,-0.02647552490234375,XGBoost,Paseo de la Castellana
+Avenida Brasilia_N-S_t-2,-0.04122238159179688,XGBoost,Paseo de la Castellana
+Calle Arturo Soria_N-S_t-1,-0.06097564697265625,XGBoost,Paseo de la Castellana
+Calle Arturo Soria_S-N_t-3,-0.09315948486328125,XGBoost,Paseo de la Castellana
+Calle Génova_O-E_t-3,-0.10277023315429687,XGBoost,Paseo de la Castellana
+Avenida Brasilia_N-S_t-3,-0.1066314697265625,XGBoost,Paseo de la Castellana
+Calle Serrano_N-S_t-1,-0.1165191650390625,XGBoost,Paseo de la Castellana
+Avenida General Perón_O-E_t-3,-0.12440261840820313,XGBoost,Paseo de la Castellana
+Avenida General Perón_O-E_t-1,-0.15715103149414061,XGBoost,Paseo de la Castellana
+Avenida Brasilia_S-N_t-2,-0.16259307861328126,XGBoost,Paseo de la Castellana
+Avenida Alfonso XIII_N-S_t-3,-0.19806365966796874,XGBoost,Paseo de la Castellana
+Calle López de Hoyos_O-E_t-3,-0.20907821655273437,XGBoost,Paseo de la Castellana
+Calle Velázquez_S-N_t-3,-0.23415298461914064,XGBoost,Paseo de la Castellana
+Calle Hermanos García Noblejas_N-S_t-1,-0.393951416015625,XGBoost,Paseo de la Castellana
+Paseo de la Castellana_S-N_t-3,-0.5413589477539062,XGBoost,Paseo de la Castellana
+Avenida Alfonso XIII_S-N_t-3,-0.5500999450683594,XGBoost,Paseo de la Castellana
+Avenida Cardenal Herrera Oria_E-O_t-2,-0.6877838134765625,XGBoost,Paseo de la Castellana

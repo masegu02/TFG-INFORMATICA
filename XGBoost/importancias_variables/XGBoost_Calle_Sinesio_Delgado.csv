@@ -1,0 +1,74 @@
+feature,importance,modelo,calle
+Calle Sinesio Delgado_E-O_t-1,108.29332122802734,XGBoost,Calle Sinesio Delgado
+Avenida de Logroño_O-E_t-1,47.48888168334961,XGBoost,Calle Sinesio Delgado
+Avenida Reina Victoria_O-E_t-1,46.16603775024414,XGBoost,Calle Sinesio Delgado
+Avenida Reina Victoria_E-O_t-1,41.46145935058594,XGBoost,Calle Sinesio Delgado
+Avenida de Logroño_E-O_t-1,27.41720542907715,XGBoost,Calle Sinesio Delgado
+Calle Raimundo Fernández Villaverde_E-O_t-1,17.52086296081543,XGBoost,Calle Sinesio Delgado
+Calle Sinesio Delgado_E-O_t-2,5.596450424194336,XGBoost,Calle Sinesio Delgado
+Calle Sinesio Delgado_O-E_t-1,3.854077911376953,XGBoost,Calle Sinesio Delgado
+Avenida de Logroño_E-O_t-2,3.5525135040283202,XGBoost,Calle Sinesio Delgado
+Calle Bravo Murillo_N-S_t-1,3.453043746948242,XGBoost,Calle Sinesio Delgado
+Avenida de Valladolid_S-N_t-1,3.055830383300781,XGBoost,Calle Sinesio Delgado
+Avenida de Logroño_O-E_t-2,2.752239990234375,XGBoost,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_E-O_t-1,1.8908931732177734,XGBoost,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_N-S_t-2,1.8246990203857423,XGBoost,Calle Sinesio Delgado
+Avenida de Logroño_E-O_t-3,1.5421028137207031,XGBoost,Calle Sinesio Delgado
+Francos Rodríguez_E-O_t-3,1.302096176147461,XGBoost,Calle Sinesio Delgado
+Avenida de la Ilustración (M-30)_E-O_t-1,1.297825241088867,XGBoost,Calle Sinesio Delgado
+Calle Sinesio Delgado_E-O_t-3,1.2918926239013673,XGBoost,Calle Sinesio Delgado
+Calle Raimundo Fernández Villaverde_O-E_t-1,1.223211669921875,XGBoost,Calle Sinesio Delgado
+Francos Rodríguez_E-O_t-1,1.1669448852539062,XGBoost,Calle Sinesio Delgado
+Avenida de la Ilustración (M-30)_E-O_t-3,1.1591110229492188,XGBoost,Calle Sinesio Delgado
+Calle San Bernardo_S-N_t-3,1.1327342987060547,XGBoost,Calle Sinesio Delgado
+Calle Raimundo Fernández Villaverde_E-O_t-3,1.0650959014892578,XGBoost,Calle Sinesio Delgado
+Avenida de Logroño_O-E_t-3,1.0302078247070312,XGBoost,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_N-S_t-1,0.9601486206054688,XGBoost,Calle Sinesio Delgado
+Calle Bravo Murillo_S-N_t-1,0.8833045959472656,XGBoost,Calle Sinesio Delgado
+Avenida de Valladolid_N-S_t-3,0.8637718200683594,XGBoost,Calle Sinesio Delgado
+Avenida Reina Victoria_E-O_t-2,0.8190677642822266,XGBoost,Calle Sinesio Delgado
+Francos Rodríguez_O-E_t-1,0.8124279022216797,XGBoost,Calle Sinesio Delgado
+Avenida Reina Victoria_O-E_t-2,0.736117172241211,XGBoost,Calle Sinesio Delgado
+Avenida Reina Victoria_E-O_t-3,0.6815322875976563,XGBoost,Calle Sinesio Delgado
+Avenida de la Ilustración (M-30)_O-E_t-3,0.550048828125,XGBoost,Calle Sinesio Delgado
+Avenida de la Ilustración (M-30)_E-O_t-2,0.5332996368408203,XGBoost,Calle Sinesio Delgado
+Avenida de la Ilustración (M-30)_O-E_t-1,0.5254383087158203,XGBoost,Calle Sinesio Delgado
+Calle Sinesio Delgado_O-E_t-2,0.4404491424560547,XGBoost,Calle Sinesio Delgado
+Calle Bravo Murillo_N-S_t-2,0.3700897216796875,XGBoost,Calle Sinesio Delgado
+AEMET_tmed,0.34300689697265624,XGBoost,Calle Sinesio Delgado
+Francos Rodríguez_O-E_t-2,0.3049041748046875,XGBoost,Calle Sinesio Delgado
+Avenida de Valladolid_N-S_t-1,0.2641273498535156,XGBoost,Calle Sinesio Delgado
+dia_semana,0.24292984008789062,XGBoost,Calle Sinesio Delgado
+Francos Rodríguez_O-E_t-3,0.23012886047363282,XGBoost,Calle Sinesio Delgado
+Calle Sinesio Delgado_O-E_t-3,0.22449569702148436,XGBoost,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_S-N_t-2,0.22142066955566406,XGBoost,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_E-O_t-3,0.21922721862792968,XGBoost,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_N-S_t-3,0.19762649536132812,XGBoost,Calle Sinesio Delgado
+Calle Cea Bermúdez_O-E_t-1,0.1866687774658203,XGBoost,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_O-E_t-3,0.179351806640625,XGBoost,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_E-O_t-2,0.17484207153320314,XGBoost,Calle Sinesio Delgado
+Calle Cea Bermúdez_O-E_t-3,0.15826988220214844,XGBoost,Calle Sinesio Delgado
+Calle Bravo Murillo_S-N_t-3,0.13719825744628905,XGBoost,Calle Sinesio Delgado
+Avenida Reina Victoria_O-E_t-3,0.09697494506835938,XGBoost,Calle Sinesio Delgado
+Calle Cea Bermúdez_O-E_t-2,0.09625701904296875,XGBoost,Calle Sinesio Delgado
+Francos Rodríguez_E-O_t-2,0.09557304382324219,XGBoost,Calle Sinesio Delgado
+Avenida de Valladolid_S-N_t-2,0.08735275268554688,XGBoost,Calle Sinesio Delgado
+Calle Bravo Murillo_N-S_t-3,0.08508338928222656,XGBoost,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_S-N_t-3,0.0704742431640625,XGBoost,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_O-E_t-2,0.06317596435546875,XGBoost,Calle Sinesio Delgado
+Calle San Bernardo_N-S_t-3,0.05751800537109375,XGBoost,Calle Sinesio Delgado
+Avenida de Valladolid_S-N_t-3,0.051570892333984375,XGBoost,Calle Sinesio Delgado
+Calle San Bernardo_S-N_t-2,0.029389572143554688,XGBoost,Calle Sinesio Delgado
+Avenida de la Ilustración (M-30)_O-E_t-2,0.02626457214355469,XGBoost,Calle Sinesio Delgado
+Calle Raimundo Fernández Villaverde_O-E_t-3,0.011558151245117188,XGBoost,Calle Sinesio Delgado
+AEMET_prec,0.009105682373046875,XGBoost,Calle Sinesio Delgado
+festivo,0.0,XGBoost,Calle Sinesio Delgado
+Calle San Bernardo_N-S_t-2,-0.0002712249755859375,XGBoost,Calle Sinesio Delgado
+Calle San Bernardo_N-S_t-1,-0.009641265869140625,XGBoost,Calle Sinesio Delgado
+Calle San Bernardo_S-N_t-1,-0.01597175598144531,XGBoost,Calle Sinesio Delgado
+Calle Bravo Murillo_S-N_t-2,-0.017972946166992188,XGBoost,Calle Sinesio Delgado
+Avenida de Valladolid_N-S_t-2,-0.021475601196289062,XGBoost,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_O-E_t-1,-0.022512054443359374,XGBoost,Calle Sinesio Delgado
+Calle Raimundo Fernández Villaverde_E-O_t-2,-0.026262283325195312,XGBoost,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_S-N_t-1,-0.041496658325195314,XGBoost,Calle Sinesio Delgado
+Calle Raimundo Fernández Villaverde_O-E_t-2,-0.18354644775390624,XGBoost,Calle Sinesio Delgado

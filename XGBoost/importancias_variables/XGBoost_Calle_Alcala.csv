@@ -1,0 +1,53 @@
+feature,importance,modelo,calle
+Calle Alcalá_E-O_t-1,180.47674713134765,XGBoost,Calle Alcala
+Calle Camino de Vinateros_E-O_t-1,60.28352279663086,XGBoost,Calle Alcala
+Avenida Menéndez Pelayo_S-N_t-1,40.05438995361328,XGBoost,Calle Alcala
+dia_semana,32.36681900024414,XGBoost,Calle Alcala
+Calle Alcalá_O-E_t-1,24.506674194335936,XGBoost,Calle Alcala
+Avenida de la Albufera_O-E_t-1,14.4489013671875,XGBoost,Calle Alcala
+Avenida Menéndez Pelayo_N-S_t-1,10.009752655029297,XGBoost,Calle Alcala
+Calle Alcalá_E-O_t-3,7.363335418701172,XGBoost,Calle Alcala
+Calle Alcalá_E-O_t-2,5.886440277099609,XGBoost,Calle Alcala
+Avenida Arcentales_O-E_t-3,5.407765197753906,XGBoost,Calle Alcala
+Calle José Ortega y Gasset_E-O_t-1,4.817041015625,XGBoost,Calle Alcala
+Calle San Cipriano_E-O_t-1,4.619698333740234,XGBoost,Calle Alcala
+Avenida Arcentales_O-E_t-2,3.451445770263672,XGBoost,Calle Alcala
+Calle Camino de Vinateros_O-E_t-1,2.999376678466797,XGBoost,Calle Alcala
+Avenida de la Albufera_E-O_t-3,2.7857955932617187,XGBoost,Calle Alcala
+Avenida Arcentales_E-O_t-1,2.7063339233398436,XGBoost,Calle Alcala
+Calle Doctor Esquerdo_S-N_t-1,2.4182777404785156,XGBoost,Calle Alcala
+Calle Alcalá_O-E_t-3,2.277851867675781,XGBoost,Calle Alcala
+Calle Doctor Esquerdo_N-S_t-3,2.260814666748047,XGBoost,Calle Alcala
+Avenida Menéndez Pelayo_N-S_t-3,1.8407073974609376,XGBoost,Calle Alcala
+Calle Doctor Esquerdo_N-S_t-1,1.6965370178222656,XGBoost,Calle Alcala
+Avenida de la Albufera_E-O_t-2,1.48568115234375,XGBoost,Calle Alcala
+Avenida de la Albufera_O-E_t-2,1.417548370361328,XGBoost,Calle Alcala
+Calle José Ortega y Gasset_E-O_t-2,1.4050003051757813,XGBoost,Calle Alcala
+Avenida Menéndez Pelayo_S-N_t-2,1.4012489318847656,XGBoost,Calle Alcala
+Calle San Cipriano_E-O_t-3,1.3474777221679688,XGBoost,Calle Alcala
+Calle Doctor Esquerdo_S-N_t-2,1.0884071350097657,XGBoost,Calle Alcala
+Calle San Cipriano_O-E_t-1,1.0197547912597655,XGBoost,Calle Alcala
+Calle José Ortega y Gasset_O-E_t-1,1.0153640747070312,XGBoost,Calle Alcala
+Calle Doctor Esquerdo_S-N_t-3,0.9818656921386719,XGBoost,Calle Alcala
+Calle Camino de Vinateros_O-E_t-2,0.9454002380371094,XGBoost,Calle Alcala
+Avenida Menéndez Pelayo_S-N_t-3,0.9210418701171875,XGBoost,Calle Alcala
+Calle Camino de Vinateros_E-O_t-3,0.8915077209472656,XGBoost,Calle Alcala
+Calle Camino de Vinateros_E-O_t-2,0.8483161926269531,XGBoost,Calle Alcala
+Calle José Ortega y Gasset_E-O_t-3,0.8419303894042969,XGBoost,Calle Alcala
+Avenida Arcentales_E-O_t-3,0.7433990478515625,XGBoost,Calle Alcala
+Calle Doctor Esquerdo_N-S_t-2,0.7413856506347656,XGBoost,Calle Alcala
+Avenida Arcentales_E-O_t-2,0.7401466369628906,XGBoost,Calle Alcala
+Calle José Ortega y Gasset_O-E_t-2,0.6509765625,XGBoost,Calle Alcala
+Calle Alcalá_O-E_t-2,0.6418357849121094,XGBoost,Calle Alcala
+Calle José Ortega y Gasset_O-E_t-3,0.4955711364746094,XGBoost,Calle Alcala
+Calle San Cipriano_O-E_t-2,0.43970794677734376,XGBoost,Calle Alcala
+Avenida Menéndez Pelayo_N-S_t-2,0.40537185668945314,XGBoost,Calle Alcala
+Calle Camino de Vinateros_O-E_t-3,0.3657096862792969,XGBoost,Calle Alcala
+Calle San Cipriano_O-E_t-3,0.3547981262207031,XGBoost,Calle Alcala
+Avenida de la Albufera_E-O_t-1,0.3476081848144531,XGBoost,Calle Alcala
+Calle San Cipriano_E-O_t-2,0.3288856506347656,XGBoost,Calle Alcala
+Avenida de la Albufera_O-E_t-3,0.238800048828125,XGBoost,Calle Alcala
+AEMET_tmed,0.077679443359375,XGBoost,Calle Alcala
+AEMET_prec,0.0675384521484375,XGBoost,Calle Alcala
+festivo,0.0,XGBoost,Calle Alcala
+Avenida Arcentales_O-E_t-1,-0.010089111328125,XGBoost,Calle Alcala

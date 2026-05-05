@@ -1,0 +1,44 @@
+feature,importance,modelo,calle
+Calle Alberto Aguilera_O-E_t-1,217.12625274658203,XGBoost,Calle Alberto Aguilera
+Calle Alberto Aguilera_E-O_t-1,186.10706329345703,XGBoost,Calle Alberto Aguilera
+Calle Alberto Aguilera_O-E_t-2,8.460191345214843,XGBoost,Calle Alberto Aguilera
+Calle Alberto Aguilera_O-E_t-3,6.061901092529297,XGBoost,Calle Alberto Aguilera
+Paseo de El Prado_S-N_t-3,5.394976806640625,XGBoost,Calle Alberto Aguilera
+Paseo de El Prado_S-N_t-1,4.702812957763672,XGBoost,Calle Alberto Aguilera
+Paseo Infanta Isabel_E-O_t-3,4.040530395507813,XGBoost,Calle Alberto Aguilera
+Calle Alberto Aguilera_E-O_t-3,3.7746627807617186,XGBoost,Calle Alberto Aguilera
+Calle Alberto Aguilera_E-O_t-2,3.4734962463378904,XGBoost,Calle Alberto Aguilera
+dia_semana,3.2264122009277343,XGBoost,Calle Alberto Aguilera
+Calle Mayor_O-E_t-1,2.586444854736328,XGBoost,Calle Alberto Aguilera
+Calle Princesa_S-N_t-3,2.5532791137695314,XGBoost,Calle Alberto Aguilera
+Calle Mayor_O-E_t-3,1.8799736022949218,XGBoost,Calle Alberto Aguilera
+Calle Princesa_S-N_t-1,1.7471595764160157,XGBoost,Calle Alberto Aguilera
+Calle Princesa_N-S_t-3,1.452581024169922,XGBoost,Calle Alberto Aguilera
+Paseo Infanta Isabel_O-E_t-1,1.3696098327636719,XGBoost,Calle Alberto Aguilera
+Calle Atocha_E-O_t-3,1.318426513671875,XGBoost,Calle Alberto Aguilera
+Calle Princesa_N-S_t-1,1.27503662109375,XGBoost,Calle Alberto Aguilera
+AEMET_tmed,1.1072425842285156,XGBoost,Calle Alberto Aguilera
+Paseo de El Prado_N-S_t-3,1.0803977966308593,XGBoost,Calle Alberto Aguilera
+Calle Hortaleza_S-N_t-2,0.9642288208007812,XGBoost,Calle Alberto Aguilera
+Paseo de El Prado_N-S_t-1,0.9411529541015625,XGBoost,Calle Alberto Aguilera
+Calle Princesa_S-N_t-2,0.9302940368652344,XGBoost,Calle Alberto Aguilera
+Calle Gran Vía_O-E_t-3,0.911383056640625,XGBoost,Calle Alberto Aguilera
+Calle Atocha_E-O_t-1,0.769677734375,XGBoost,Calle Alberto Aguilera
+Calle Gran Vía_E-O_t-3,0.759759521484375,XGBoost,Calle Alberto Aguilera
+Calle Mayor_O-E_t-2,0.7587821960449219,XGBoost,Calle Alberto Aguilera
+Paseo Infanta Isabel_O-E_t-3,0.75360107421875,XGBoost,Calle Alberto Aguilera
+Calle Gran Vía_E-O_t-1,0.7079193115234375,XGBoost,Calle Alberto Aguilera
+Paseo de El Prado_S-N_t-2,0.6591758728027344,XGBoost,Calle Alberto Aguilera
+Paseo Infanta Isabel_E-O_t-1,0.50516357421875,XGBoost,Calle Alberto Aguilera
+Paseo Infanta Isabel_E-O_t-2,0.5019294738769531,XGBoost,Calle Alberto Aguilera
+Calle Gran Vía_O-E_t-2,0.42141189575195315,XGBoost,Calle Alberto Aguilera
+Calle Hortaleza_S-N_t-1,0.38353805541992186,XGBoost,Calle Alberto Aguilera
+Paseo Infanta Isabel_O-E_t-2,0.3614387512207031,XGBoost,Calle Alberto Aguilera
+Calle Hortaleza_S-N_t-3,0.3092002868652344,XGBoost,Calle Alberto Aguilera
+Calle Princesa_N-S_t-2,0.22414627075195312,XGBoost,Calle Alberto Aguilera
+Paseo de El Prado_N-S_t-2,0.1782623291015625,XGBoost,Calle Alberto Aguilera
+Calle Gran Vía_E-O_t-2,0.16510238647460937,XGBoost,Calle Alberto Aguilera
+Calle Gran Vía_O-E_t-1,0.13951797485351564,XGBoost,Calle Alberto Aguilera
+Calle Atocha_E-O_t-2,0.1344329833984375,XGBoost,Calle Alberto Aguilera
+festivo,0.0,XGBoost,Calle Alberto Aguilera
+AEMET_prec,-0.01084747314453125,XGBoost,Calle Alberto Aguilera

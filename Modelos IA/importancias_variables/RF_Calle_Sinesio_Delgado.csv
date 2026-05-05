@@ -1,0 +1,74 @@
+feature,importance,modelo,calle
+Avenida Reina Victoria_O-E_t-1,110.65442907863124,RF,Calle Sinesio Delgado
+Avenida de Logroño_O-E_t-1,47.87249492314765,RF,Calle Sinesio Delgado
+Calle Sinesio Delgado_E-O_t-1,36.54938232667651,RF,Calle Sinesio Delgado
+Avenida de Logroño_E-O_t-1,25.91492764996621,RF,Calle Sinesio Delgado
+Calle Raimundo Fernández Villaverde_E-O_t-1,17.37283145637669,RF,Calle Sinesio Delgado
+Avenida Reina Victoria_E-O_t-1,8.625037636435348,RF,Calle Sinesio Delgado
+Avenida de Logroño_E-O_t-2,2.9377494761727867,RF,Calle Sinesio Delgado
+Calle Sinesio Delgado_O-E_t-1,2.191046850555191,RF,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_N-S_t-2,1.755402433621191,RF,Calle Sinesio Delgado
+Calle Raimundo Fernández Villaverde_O-E_t-1,1.1657295166654307,RF,Calle Sinesio Delgado
+Calle Sinesio Delgado_O-E_t-2,1.1327888280861074,RF,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_N-S_t-1,0.9768979188493858,RF,Calle Sinesio Delgado
+Avenida de Logroño_O-E_t-3,0.9761577056027327,RF,Calle Sinesio Delgado
+Calle Bravo Murillo_N-S_t-1,0.9150851243882869,RF,Calle Sinesio Delgado
+Francos Rodríguez_O-E_t-2,0.8973472113747292,RF,Calle Sinesio Delgado
+Francos Rodríguez_E-O_t-1,0.851042535389982,RF,Calle Sinesio Delgado
+Avenida de Logroño_E-O_t-3,0.7720348683101477,RF,Calle Sinesio Delgado
+Avenida de la Ilustración (M-30)_E-O_t-3,0.7253163914797327,RF,Calle Sinesio Delgado
+Avenida de Valladolid_S-N_t-1,0.6123986791049582,RF,Calle Sinesio Delgado
+Avenida de la Ilustración (M-30)_E-O_t-1,0.5096823933713146,RF,Calle Sinesio Delgado
+Avenida de la Ilustración (M-30)_O-E_t-3,0.4975371604376996,RF,Calle Sinesio Delgado
+Calle Bravo Murillo_S-N_t-1,0.49186079576365743,RF,Calle Sinesio Delgado
+Calle Bravo Murillo_S-N_t-3,0.4699455121864354,RF,Calle Sinesio Delgado
+Calle Sinesio Delgado_O-E_t-3,0.44999152723019264,RF,Calle Sinesio Delgado
+Avenida de la Ilustración (M-30)_E-O_t-2,0.4342119045544301,RF,Calle Sinesio Delgado
+Calle Raimundo Fernández Villaverde_E-O_t-3,0.4257116102229531,RF,Calle Sinesio Delgado
+Calle San Bernardo_S-N_t-3,0.40302927525370225,RF,Calle Sinesio Delgado
+Avenida de Logroño_O-E_t-2,0.3907182458454912,RF,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_N-S_t-3,0.35655748208129906,RF,Calle Sinesio Delgado
+Francos Rodríguez_O-E_t-1,0.28597868913597535,RF,Calle Sinesio Delgado
+Avenida Reina Victoria_E-O_t-3,0.24353528033952543,RF,Calle Sinesio Delgado
+Avenida de la Ilustración (M-30)_O-E_t-1,0.2309205120456305,RF,Calle Sinesio Delgado
+Francos Rodríguez_O-E_t-3,0.22822379825702654,RF,Calle Sinesio Delgado
+Avenida de Valladolid_S-N_t-2,0.15105761602266696,RF,Calle Sinesio Delgado
+Avenida de la Ilustración (M-30)_O-E_t-2,0.15020389371473045,RF,Calle Sinesio Delgado
+dia_semana,0.14905578805362224,RF,Calle Sinesio Delgado
+Calle Bravo Murillo_S-N_t-2,0.13216743816015394,RF,Calle Sinesio Delgado
+Avenida de Valladolid_S-N_t-3,0.11717523603001609,RF,Calle Sinesio Delgado
+Francos Rodríguez_E-O_t-2,0.11525378200536025,RF,Calle Sinesio Delgado
+Avenida Reina Victoria_O-E_t-2,0.1111250156683596,RF,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_O-E_t-1,0.09751840806731452,RF,Calle Sinesio Delgado
+Calle Cea Bermúdez_O-E_t-1,0.08960430194900582,RF,Calle Sinesio Delgado
+AEMET_tmed,0.08821490793292171,RF,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_S-N_t-1,0.08295531359541002,RF,Calle Sinesio Delgado
+Avenida Reina Victoria_E-O_t-2,0.0789647123267649,RF,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_O-E_t-3,0.07865077260509139,RF,Calle Sinesio Delgado
+Calle Cea Bermúdez_O-E_t-3,0.06605686021159726,RF,Calle Sinesio Delgado
+Avenida Reina Victoria_O-E_t-3,0.06474379714924794,RF,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_E-O_t-3,0.051976246161842,RF,Calle Sinesio Delgado
+Calle Sinesio Delgado_E-O_t-2,0.04993690228279775,RF,Calle Sinesio Delgado
+Calle Raimundo Fernández Villaverde_O-E_t-2,0.04934358092498954,RF,Calle Sinesio Delgado
+Francos Rodríguez_E-O_t-3,0.04933931784303667,RF,Calle Sinesio Delgado
+Avenida de Valladolid_N-S_t-3,0.049017933330566164,RF,Calle Sinesio Delgado
+Calle Bravo Murillo_N-S_t-3,0.04818581600758591,RF,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_S-N_t-3,0.04545937373127913,RF,Calle Sinesio Delgado
+Avenida de Valladolid_N-S_t-1,0.04100506859419539,RF,Calle Sinesio Delgado
+Calle Cea Bermúdez_O-E_t-2,0.040498607364592945,RF,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_S-N_t-2,0.029990552253581625,RF,Calle Sinesio Delgado
+Avenida de Valladolid_N-S_t-2,0.029359569628477543,RF,Calle Sinesio Delgado
+Calle Raimundo Fernández Villaverde_E-O_t-2,0.02522579991447742,RF,Calle Sinesio Delgado
+Calle Raimundo Fernández Villaverde_O-E_t-3,0.024730234788550833,RF,Calle Sinesio Delgado
+Calle San Bernardo_S-N_t-1,0.0227921647604191,RF,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_O-E_t-2,0.017014280426649007,RF,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_E-O_t-2,0.014228650590948888,RF,Calle Sinesio Delgado
+Avenida del Manzanares (M-30)_E-O_t-1,0.01315003052499577,RF,Calle Sinesio Delgado
+Calle San Bernardo_N-S_t-3,0.01117707365809011,RF,Calle Sinesio Delgado
+Calle Bravo Murillo_N-S_t-2,0.005733888920610042,RF,Calle Sinesio Delgado
+Calle San Bernardo_N-S_t-1,0.003636574579815033,RF,Calle Sinesio Delgado
+AEMET_prec,0.000509300239330912,RF,Calle Sinesio Delgado
+festivo,-4.973799150320701e-15,RF,Calle Sinesio Delgado
+Calle San Bernardo_N-S_t-2,-0.002230929192306519,RF,Calle Sinesio Delgado
+Calle San Bernardo_S-N_t-2,-0.02609706624981456,RF,Calle Sinesio Delgado
+Calle Sinesio Delgado_E-O_t-3,-0.0844047194271191,RF,Calle Sinesio Delgado

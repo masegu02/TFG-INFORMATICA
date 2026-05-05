@@ -1,0 +1,44 @@
+feature,importance,modelo,calle
+Calle Alberto Aguilera_O-E_t-1,362.13568633544253,RF,Calle Alberto Aguilera
+Calle Alberto Aguilera_E-O_t-1,68.60449229919212,RF,Calle Alberto Aguilera
+Paseo Infanta Isabel_E-O_t-3,5.6010649320507895,RF,Calle Alberto Aguilera
+Calle Alberto Aguilera_O-E_t-2,4.286229822227274,RF,Calle Alberto Aguilera
+dia_semana,3.157216896582713,RF,Calle Alberto Aguilera
+Calle Alberto Aguilera_O-E_t-3,3.1371594630339388,RF,Calle Alberto Aguilera
+Paseo de El Prado_S-N_t-3,2.8390783513869566,RF,Calle Alberto Aguilera
+Calle Princesa_S-N_t-3,2.7072699626260954,RF,Calle Alberto Aguilera
+Paseo de El Prado_S-N_t-2,1.6047445473049122,RF,Calle Alberto Aguilera
+Calle Alberto Aguilera_E-O_t-2,1.4099158281880677,RF,Calle Alberto Aguilera
+Calle Alberto Aguilera_E-O_t-3,1.4067490570657113,RF,Calle Alberto Aguilera
+Calle Mayor_O-E_t-3,1.1517115730125682,RF,Calle Alberto Aguilera
+Paseo Infanta Isabel_O-E_t-1,1.121116790624295,RF,Calle Alberto Aguilera
+Calle Hortaleza_S-N_t-2,0.8895458123995382,RF,Calle Alberto Aguilera
+Calle Princesa_S-N_t-2,0.8055750693588465,RF,Calle Alberto Aguilera
+Calle Princesa_N-S_t-3,0.7702838930679718,RF,Calle Alberto Aguilera
+AEMET_tmed,0.6435183212646678,RF,Calle Alberto Aguilera
+Paseo de El Prado_N-S_t-1,0.6297076245945419,RF,Calle Alberto Aguilera
+Calle Mayor_O-E_t-1,0.6246540733709722,RF,Calle Alberto Aguilera
+Calle Gran Vía_O-E_t-3,0.6172182411573246,RF,Calle Alberto Aguilera
+Paseo de El Prado_S-N_t-1,0.5953222023196674,RF,Calle Alberto Aguilera
+Paseo Infanta Isabel_O-E_t-3,0.4958381561537976,RF,Calle Alberto Aguilera
+Paseo Infanta Isabel_E-O_t-1,0.4838249979263054,RF,Calle Alberto Aguilera
+Paseo de El Prado_N-S_t-3,0.48093265002897284,RF,Calle Alberto Aguilera
+Paseo Infanta Isabel_E-O_t-2,0.44499334238591787,RF,Calle Alberto Aguilera
+Calle Mayor_O-E_t-2,0.43647525406373544,RF,Calle Alberto Aguilera
+Calle Atocha_E-O_t-3,0.37721374210442776,RF,Calle Alberto Aguilera
+Calle Princesa_N-S_t-1,0.3554723367805991,RF,Calle Alberto Aguilera
+Calle Gran Vía_E-O_t-3,0.3384646464871352,RF,Calle Alberto Aguilera
+Calle Gran Vía_O-E_t-2,0.3228824973165487,RF,Calle Alberto Aguilera
+Paseo Infanta Isabel_O-E_t-2,0.32213388159321144,RF,Calle Alberto Aguilera
+Calle Gran Vía_E-O_t-1,0.2878394423697898,RF,Calle Alberto Aguilera
+Calle Hortaleza_S-N_t-1,0.21751136912033503,RF,Calle Alberto Aguilera
+Calle Gran Vía_E-O_t-2,0.19646678428820366,RF,Calle Alberto Aguilera
+Calle Princesa_N-S_t-2,0.18686151381343025,RF,Calle Alberto Aguilera
+Calle Atocha_E-O_t-1,0.18551265860976257,RF,Calle Alberto Aguilera
+Calle Princesa_S-N_t-1,0.15204744202065826,RF,Calle Alberto Aguilera
+Calle Hortaleza_S-N_t-3,0.10227369485305929,RF,Calle Alberto Aguilera
+Calle Gran Vía_O-E_t-1,0.09671063810776985,RF,Calle Alberto Aguilera
+Paseo de El Prado_N-S_t-2,0.09083917650606424,RF,Calle Alberto Aguilera
+Calle Atocha_E-O_t-2,0.03545720698246839,RF,Calle Alberto Aguilera
+festivo,1.4210854715202005e-15,RF,Calle Alberto Aguilera
+AEMET_prec,-0.0016777090724133358,RF,Calle Alberto Aguilera

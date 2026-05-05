@@ -1,0 +1,74 @@
+feature,importance,modelo,calle
+Calle Silvano_E-O_t-1,86.18406753540039,XGBoost,Calle Embajadores
+Calle Embajadores_E-O_t-1,58.6885124206543,XGBoost,Calle Embajadores
+Paseo de Santa María de la Cabeza_S-N_t-1,15.658692169189454,XGBoost,Calle Embajadores
+Calle Méndez Álvaro_N-S_t-1,13.873659896850587,XGBoost,Calle Embajadores
+Calle Méndez Álvaro_S-N_t-1,10.355047225952148,XGBoost,Calle Embajadores
+Calle Silvano_O-E_t-1,4.860810852050781,XGBoost,Calle Embajadores
+Calle Silvano_E-O_t-2,4.468292999267578,XGBoost,Calle Embajadores
+Calle de Gran Vía de San Francisco_S-N_t-1,2.885873031616211,XGBoost,Calle Embajadores
+dia_semana,0.8276538848876953,XGBoost,Calle Embajadores
+Calle Toledo_S-N_t-1,0.8201828002929688,XGBoost,Calle Embajadores
+Calle Embajadores_E-O_t-2,0.5596927642822266,XGBoost,Calle Embajadores
+Paseo de Extremadura_E-O_t-1,0.46071395874023435,XGBoost,Calle Embajadores
+AEMET_tmed,0.39841461181640625,XGBoost,Calle Embajadores
+Avenida Rafaela Ybarra_N-S_t-1,0.39096527099609374,XGBoost,Calle Embajadores
+Calle de Marcelo Usera_E-O_t-1,0.34360542297363283,XGBoost,Calle Embajadores
+Avenida de Oporto_O-E_t-2,0.3336784362792969,XGBoost,Calle Embajadores
+Calle Silvano_O-E_t-2,0.3305812835693359,XGBoost,Calle Embajadores
+Avenida Rafaela Ybarra_S-N_t-1,0.27897796630859373,XGBoost,Calle Embajadores
+Calle de Gran Vía de San Francisco_S-N_t-2,0.2391429901123047,XGBoost,Calle Embajadores
+Calle Alcocer_E-O_t-2,0.20779266357421874,XGBoost,Calle Embajadores
+Calle Toledo_S-N_t-2,0.18322677612304689,XGBoost,Calle Embajadores
+Calle Méndez Álvaro_N-S_t-2,0.1705394744873047,XGBoost,Calle Embajadores
+Calle Ronda de Valencia_E-O_t-2,0.15927886962890625,XGBoost,Calle Embajadores
+Calle Embajadores_O-E_t-2,0.15915412902832032,XGBoost,Calle Embajadores
+Avenida de Oporto_O-E_t-3,0.11132354736328125,XGBoost,Calle Embajadores
+Avenida Rafaela Ybarra_S-N_t-3,0.0989532470703125,XGBoost,Calle Embajadores
+Paseo de Extremadura_O-E_t-3,0.0918212890625,XGBoost,Calle Embajadores
+Paseo de Extremadura_E-O_t-3,0.07186393737792969,XGBoost,Calle Embajadores
+Paseo de Santa María de la Cabeza_N-S_t-2,0.058779144287109376,XGBoost,Calle Embajadores
+Calle Alcocer_O-E_t-2,0.057768630981445315,XGBoost,Calle Embajadores
+Calle Embajadores_O-E_t-1,0.03189430236816406,XGBoost,Calle Embajadores
+Paseo de Santa María de la Cabeza_S-N_t-3,0.02587432861328125,XGBoost,Calle Embajadores
+festivo,0.0,XGBoost,Calle Embajadores
+AEMET_prec,-0.031206893920898437,XGBoost,Calle Embajadores
+Calle Embajadores_E-O_t-3,-0.03231658935546875,XGBoost,Calle Embajadores
+Calle de Gran Vía de San Francisco_N-S_t-2,-0.03550224304199219,XGBoost,Calle Embajadores
+Calle Toledo_S-N_t-3,-0.053017044067382814,XGBoost,Calle Embajadores
+Calle de Marcelo Usera_O-E_t-3,-0.05423126220703125,XGBoost,Calle Embajadores
+Calle Méndez Álvaro_N-S_t-3,-0.062305450439453125,XGBoost,Calle Embajadores
+Calle Toledo_N-S_t-3,-0.06666221618652343,XGBoost,Calle Embajadores
+Paseo de Extremadura_O-E_t-2,-0.07271919250488282,XGBoost,Calle Embajadores
+Calle Alcocer_O-E_t-3,-0.07498817443847657,XGBoost,Calle Embajadores
+Calle de Marcelo Usera_E-O_t-3,-0.08192367553710937,XGBoost,Calle Embajadores
+Calle de Marcelo Usera_E-O_t-2,-0.09645576477050781,XGBoost,Calle Embajadores
+Calle Ronda de Valencia_E-O_t-1,-0.11714706420898438,XGBoost,Calle Embajadores
+Paseo de Extremadura_E-O_t-2,-0.12898216247558594,XGBoost,Calle Embajadores
+Paseo de Extremadura_O-E_t-1,-0.1466289520263672,XGBoost,Calle Embajadores
+Avenida de Oporto_O-E_t-1,-0.1541820526123047,XGBoost,Calle Embajadores
+Calle Ronda de Valencia_E-O_t-3,-0.16047210693359376,XGBoost,Calle Embajadores
+Calle Toledo_N-S_t-2,-0.18567161560058593,XGBoost,Calle Embajadores
+Calle de Marcelo Usera_O-E_t-2,-0.20658416748046876,XGBoost,Calle Embajadores
+Avenida Rafaela Ybarra_S-N_t-2,-0.2512962341308594,XGBoost,Calle Embajadores
+Avenida Rafaela Ybarra_N-S_t-3,-0.25899314880371094,XGBoost,Calle Embajadores
+Calle Alcocer_O-E_t-1,-0.28311882019042967,XGBoost,Calle Embajadores
+Paseo de Santa María de la Cabeza_N-S_t-3,-0.28939666748046877,XGBoost,Calle Embajadores
+Calle Ronda de Valencia_O-E_t-3,-0.2943767547607422,XGBoost,Calle Embajadores
+Calle Toledo_N-S_t-1,-0.2960971832275391,XGBoost,Calle Embajadores
+Calle de Marcelo Usera_O-E_t-1,-0.3744464874267578,XGBoost,Calle Embajadores
+Calle de Gran Vía de San Francisco_N-S_t-1,-0.37474822998046875,XGBoost,Calle Embajadores
+Calle Alcocer_E-O_t-1,-0.3776546478271484,XGBoost,Calle Embajadores
+Calle de Gran Vía de San Francisco_N-S_t-3,-0.5383518218994141,XGBoost,Calle Embajadores
+Calle Embajadores_O-E_t-3,-0.5555027008056641,XGBoost,Calle Embajadores
+Calle de Gran Vía de San Francisco_S-N_t-3,-0.5948322296142579,XGBoost,Calle Embajadores
+Calle Silvano_E-O_t-3,-0.6615581512451172,XGBoost,Calle Embajadores
+Calle Méndez Álvaro_S-N_t-3,-0.6915794372558594,XGBoost,Calle Embajadores
+Avenida Rafaela Ybarra_N-S_t-2,-0.8259746551513671,XGBoost,Calle Embajadores
+Paseo de Santa María de la Cabeza_N-S_t-1,-0.8550788879394531,XGBoost,Calle Embajadores
+Paseo de Santa María de la Cabeza_S-N_t-2,-0.9880260467529297,XGBoost,Calle Embajadores
+Calle Silvano_O-E_t-3,-1.141403579711914,XGBoost,Calle Embajadores
+Calle Ronda de Valencia_O-E_t-2,-1.1884193420410156,XGBoost,Calle Embajadores
+Calle Méndez Álvaro_S-N_t-2,-1.5391708374023438,XGBoost,Calle Embajadores
+Calle Alcocer_E-O_t-3,-1.7168930053710938,XGBoost,Calle Embajadores
+Calle Ronda de Valencia_O-E_t-1,-1.8028488159179688,XGBoost,Calle Embajadores

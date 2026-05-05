@@ -1,0 +1,80 @@
+feature,importance,modelo,calle
+Calle Hermanos García Noblejas_S-N_t-1,138.01230477287604,RF,Paseo de la Castellana
+Paseo de la Castellana_N-S_t-1,127.44366125919166,RF,Paseo de la Castellana
+Calle Costa Rica_E-O_t-1,43.18169172550612,RF,Paseo de la Castellana
+Calle Arturo Soria_S-N_t-1,14.677172397721156,RF,Paseo de la Castellana
+Calle Príncipe de Vergara_S-N_t-2,11.273140561878893,RF,Paseo de la Castellana
+Calle Arturo Soria_N-S_t-3,5.297475415610558,RF,Paseo de la Castellana
+Calle Génova_E-O_t-2,5.025805148180092,RF,Paseo de la Castellana
+Calle José Abascal_O-E_t-3,4.339386995467493,RF,Paseo de la Castellana
+Calle José Abascal_O-E_t-1,4.194066339394434,RF,Paseo de la Castellana
+dia_semana,2.7493017837528,RF,Paseo de la Castellana
+Avenida Cardenal Herrera Oria_E-O_t-3,1.9496003910522304,RF,Paseo de la Castellana
+Calle Génova_E-O_t-1,1.670400748761692,RF,Paseo de la Castellana
+Calle Génova_O-E_t-2,1.6551988591367306,RF,Paseo de la Castellana
+Avenida Alfonso XIII_S-N_t-1,1.314709450140171,RF,Paseo de la Castellana
+Avenida Brasilia_N-S_t-1,1.1278653588644318,RF,Paseo de la Castellana
+Calle Príncipe de Vergara_N-S_t-1,0.9958056974280964,RF,Paseo de la Castellana
+Avenida Cardenal Herrera Oria_E-O_t-1,0.9542188539695985,RF,Paseo de la Castellana
+Calle Arturo Soria_S-N_t-2,0.8582176629288568,RF,Paseo de la Castellana
+AEMET_tmed,0.8483034436729795,RF,Paseo de la Castellana
+Calle López de Hoyos_O-E_t-3,0.8480947652126531,RF,Paseo de la Castellana
+Calle Arturo Soria_N-S_t-2,0.8427402796922877,RF,Paseo de la Castellana
+Calle Serrano_N-S_t-1,0.790898334063705,RF,Paseo de la Castellana
+Calle Hermanos García Noblejas_N-S_t-2,0.7848925985225378,RF,Paseo de la Castellana
+Calle Hermanos García Noblejas_N-S_t-1,0.7145910947200591,RF,Paseo de la Castellana
+Calle Costa Rica_E-O_t-3,0.6987537387497014,RF,Paseo de la Castellana
+Avenida Alfonso XIII_N-S_t-1,0.6862973413682767,RF,Paseo de la Castellana
+Calle Velázquez_S-N_t-2,0.5874986936327773,RF,Paseo de la Castellana
+Calle Costa Rica_E-O_t-2,0.4396964973973468,RF,Paseo de la Castellana
+Calle López de Hoyos_E-O_t-3,0.4066938257242739,RF,Paseo de la Castellana
+Paseo de la Castellana_S-N_t-2,0.39424186564767894,RF,Paseo de la Castellana
+Paseo de la Castellana_N-S_t-2,0.3741867028052681,RF,Paseo de la Castellana
+Paseo de la Castellana_S-N_t-1,0.3326988487514015,RF,Paseo de la Castellana
+Paseo de la Castellana_N-S_t-3,0.32409542764363264,RF,Paseo de la Castellana
+Calle Génova_O-E_t-1,0.29172710562821036,RF,Paseo de la Castellana
+Calle Velázquez_S-N_t-1,0.2898440156490992,RF,Paseo de la Castellana
+Avenida Alfonso XIII_N-S_t-3,0.2660481294724377,RF,Paseo de la Castellana
+Calle Hermanos García Noblejas_S-N_t-3,0.21619363284009552,RF,Paseo de la Castellana
+Calle Príncipe de Vergara_N-S_t-2,0.18084172885794772,RF,Paseo de la Castellana
+Calle Príncipe de Vergara_S-N_t-1,0.16600072582692177,RF,Paseo de la Castellana
+Calle Hermanos García Noblejas_S-N_t-2,0.14923531708951715,RF,Paseo de la Castellana
+Avenida Brasilia_S-N_t-1,0.1409702556471572,RF,Paseo de la Castellana
+Avenida Brasilia_S-N_t-3,0.11537147269990271,RF,Paseo de la Castellana
+Avenida Alfonso XIII_N-S_t-2,0.11193643268203886,RF,Paseo de la Castellana
+Calle Arturo Soria_S-N_t-3,0.10623412295950203,RF,Paseo de la Castellana
+Calle Génova_O-E_t-3,0.10199288363184564,RF,Paseo de la Castellana
+Avenida Cardenal Herrera Oria_E-O_t-2,0.1019502972923874,RF,Paseo de la Castellana
+Calle José Abascal_O-E_t-2,0.09714096143299714,RF,Paseo de la Castellana
+Calle Génova_E-O_t-3,0.09326367524724759,RF,Paseo de la Castellana
+Calle Serrano_N-S_t-2,0.07806904281707575,RF,Paseo de la Castellana
+Avenida Brasilia_N-S_t-3,0.07691992680910716,RF,Paseo de la Castellana
+Avenida General Perón_E-O_t-1,0.06888753851679041,RF,Paseo de la Castellana
+Calle López de Hoyos_O-E_t-1,0.0688642438188353,RF,Paseo de la Castellana
+Calle Costa Rica_O-E_t-1,0.06614959783719172,RF,Paseo de la Castellana
+Calle López de Hoyos_O-E_t-2,0.06484619580057398,RF,Paseo de la Castellana
+Calle Príncipe de Vergara_N-S_t-3,0.05779006648788112,RF,Paseo de la Castellana
+Calle López de Hoyos_E-O_t-1,0.047529640060317034,RF,Paseo de la Castellana
+Calle Hermanos García Noblejas_N-S_t-3,0.04355291982595162,RF,Paseo de la Castellana
+Avenida General Perón_O-E_t-2,0.04250322873883903,RF,Paseo de la Castellana
+Calle López de Hoyos_E-O_t-2,0.03516795792343856,RF,Paseo de la Castellana
+Avenida Cardenal Herrera Oria_O-E_t-3,0.033262544439725164,RF,Paseo de la Castellana
+Calle Arturo Soria_N-S_t-1,0.022673632275220255,RF,Paseo de la Castellana
+Avenida Cardenal Herrera Oria_O-E_t-1,0.022333767361776325,RF,Paseo de la Castellana
+Calle Costa Rica_O-E_t-2,0.00878248513574249,RF,Paseo de la Castellana
+Calle Príncipe de Vergara_S-N_t-3,0.007787011286622203,RF,Paseo de la Castellana
+Calle Serrano_N-S_t-3,0.0008077662241944949,RF,Paseo de la Castellana
+AEMET_prec,3.906310565753302e-05,RF,Paseo de la Castellana
+festivo,0.0,RF,Paseo de la Castellana
+Avenida Alfonso XIII_S-N_t-2,-0.015734646455523204,RF,Paseo de la Castellana
+Avenida General Perón_E-O_t-2,-0.019395769107956085,RF,Paseo de la Castellana
+Avenida Brasilia_S-N_t-2,-0.02707728995487031,RF,Paseo de la Castellana
+Avenida Cardenal Herrera Oria_O-E_t-2,-0.04435621553666778,RF,Paseo de la Castellana
+Avenida General Perón_E-O_t-3,-0.05180308899859511,RF,Paseo de la Castellana
+Avenida Alfonso XIII_S-N_t-3,-0.05694089275097838,RF,Paseo de la Castellana
+Avenida General Perón_O-E_t-1,-0.07542763460310198,RF,Paseo de la Castellana
+Calle Velázquez_S-N_t-3,-0.0872399117575668,RF,Paseo de la Castellana
+Calle Costa Rica_O-E_t-3,-0.1091873537973072,RF,Paseo de la Castellana
+Avenida Brasilia_N-S_t-2,-0.15216249784560745,RF,Paseo de la Castellana
+Paseo de la Castellana_S-N_t-3,-0.23677875001376095,RF,Paseo de la Castellana
+Avenida General Perón_O-E_t-3,-0.4633527618370096,RF,Paseo de la Castellana

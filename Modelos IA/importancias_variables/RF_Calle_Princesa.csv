@@ -1,0 +1,44 @@
+feature,importance,modelo,calle
+Calle Princesa_N-S_t-1,68.76381677363872,RF,Calle Princesa
+Calle Alberto Aguilera_O-E_t-1,43.890247645596816,RF,Calle Princesa
+Paseo de El Prado_S-N_t-1,9.975785641027612,RF,Calle Princesa
+Calle Alberto Aguilera_E-O_t-1,2.194481353922982,RF,Calle Princesa
+Paseo Infanta Isabel_O-E_t-2,1.2554054745869507,RF,Calle Princesa
+Calle Alberto Aguilera_E-O_t-3,1.0722557722546362,RF,Calle Princesa
+Calle Alberto Aguilera_E-O_t-2,1.0553093022002407,RF,Calle Princesa
+Calle Alberto Aguilera_O-E_t-2,0.8219059454682103,RF,Calle Princesa
+Paseo Infanta Isabel_O-E_t-3,0.639099105472561,RF,Calle Princesa
+Calle Atocha_E-O_t-1,0.4737313797412561,RF,Calle Princesa
+Calle Princesa_S-N_t-1,0.3599636586619347,RF,Calle Princesa
+Calle Gran Vía_E-O_t-1,0.3079797020413572,RF,Calle Princesa
+dia_semana,0.2551981069984201,RF,Calle Princesa
+Calle Gran Vía_O-E_t-1,0.2247327356956454,RF,Calle Princesa
+Paseo Infanta Isabel_E-O_t-3,0.1892830981481289,RF,Calle Princesa
+Calle Mayor_O-E_t-1,0.18402706960152598,RF,Calle Princesa
+Paseo de El Prado_S-N_t-3,0.13131088031097563,RF,Calle Princesa
+Paseo Infanta Isabel_E-O_t-2,0.1145244098013869,RF,Calle Princesa
+Calle Princesa_N-S_t-3,0.1121740233628401,RF,Calle Princesa
+Paseo Infanta Isabel_O-E_t-1,0.10798592832986956,RF,Calle Princesa
+Calle Mayor_O-E_t-3,0.10629028835639857,RF,Calle Princesa
+Calle Alberto Aguilera_O-E_t-3,0.10002750927984963,RF,Calle Princesa
+Calle Princesa_S-N_t-3,0.07949911341245582,RF,Calle Princesa
+Calle Princesa_S-N_t-2,0.06101094890023902,RF,Calle Princesa
+Paseo de El Prado_N-S_t-3,0.05831531046351231,RF,Calle Princesa
+Calle Mayor_O-E_t-2,0.04536452121638916,RF,Calle Princesa
+Calle Princesa_N-S_t-2,0.028026028345063736,RF,Calle Princesa
+Calle Gran Vía_O-E_t-3,0.020230300102490162,RF,Calle Princesa
+Calle Hortaleza_S-N_t-1,0.017290438119923125,RF,Calle Princesa
+Paseo de El Prado_N-S_t-1,0.01681600355724271,RF,Calle Princesa
+AEMET_tmed,0.011514097673793345,RF,Calle Princesa
+Calle Gran Vía_E-O_t-2,0.01133064132817907,RF,Calle Princesa
+Calle Atocha_E-O_t-2,0.00016742353525316388,RF,Calle Princesa
+festivo,0.0,RF,Calle Princesa
+Calle Gran Vía_O-E_t-2,-0.0013482724338103936,RF,Calle Princesa
+Paseo Infanta Isabel_E-O_t-1,-0.004687939149104636,RF,Calle Princesa
+AEMET_prec,-0.0064107719189266275,RF,Calle Princesa
+Calle Gran Vía_E-O_t-3,-0.01090359035077526,RF,Calle Princesa
+Paseo de El Prado_S-N_t-2,-0.018359467322847677,RF,Calle Princesa
+Paseo de El Prado_N-S_t-2,-0.02463624769157491,RF,Calle Princesa
+Calle Atocha_E-O_t-3,-0.15382400539890356,RF,Calle Princesa
+Calle Hortaleza_S-N_t-2,-0.20740669873597853,RF,Calle Princesa
+Calle Hortaleza_S-N_t-3,-0.5361407107839427,RF,Calle Princesa

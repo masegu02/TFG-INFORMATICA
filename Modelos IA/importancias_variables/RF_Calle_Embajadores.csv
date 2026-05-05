@@ -1,0 +1,74 @@
+feature,importance,modelo,calle
+Calle Silvano_E-O_t-1,138.49500006949495,RF,Calle Embajadores
+Paseo de Santa María de la Cabeza_S-N_t-1,31.48545856065676,RF,Calle Embajadores
+Calle Embajadores_E-O_t-1,26.04722543588839,RF,Calle Embajadores
+Calle Méndez Álvaro_S-N_t-1,4.384280017203425,RF,Calle Embajadores
+Calle Méndez Álvaro_N-S_t-1,1.6827086553961847,RF,Calle Embajadores
+dia_semana,1.2009403040165871,RF,Calle Embajadores
+Avenida Rafaela Ybarra_N-S_t-2,1.1306107194774555,RF,Calle Embajadores
+Calle de Gran Vía de San Francisco_S-N_t-1,0.8943869362440274,RF,Calle Embajadores
+Calle Silvano_O-E_t-1,0.8800596693081004,RF,Calle Embajadores
+Calle Toledo_S-N_t-1,0.7637041758996623,RF,Calle Embajadores
+Calle Ronda de Valencia_O-E_t-2,0.32324649454478943,RF,Calle Embajadores
+Calle de Marcelo Usera_E-O_t-3,0.26624356900734725,RF,Calle Embajadores
+Calle Embajadores_E-O_t-2,0.19843596726790552,RF,Calle Embajadores
+Calle Ronda de Valencia_E-O_t-3,0.08888803497988888,RF,Calle Embajadores
+Calle Toledo_N-S_t-3,0.07841115275505502,RF,Calle Embajadores
+Calle Toledo_S-N_t-2,0.04706730786840581,RF,Calle Embajadores
+Paseo de Santa María de la Cabeza_N-S_t-3,0.03103219019244179,RF,Calle Embajadores
+Paseo de Extremadura_O-E_t-3,0.02990584549219477,RF,Calle Embajadores
+Calle Ronda de Valencia_E-O_t-2,0.02941349140352969,RF,Calle Embajadores
+Calle de Marcelo Usera_E-O_t-1,0.024335339190089657,RF,Calle Embajadores
+AEMET_tmed,0.016735567609239155,RF,Calle Embajadores
+Calle Toledo_N-S_t-1,0.015746336300677656,RF,Calle Embajadores
+Calle de Marcelo Usera_E-O_t-2,0.0126549508072074,RF,Calle Embajadores
+Avenida Rafaela Ybarra_N-S_t-3,0.010962776112432238,RF,Calle Embajadores
+Calle Toledo_N-S_t-2,0.00855896864805743,RF,Calle Embajadores
+Paseo de Extremadura_E-O_t-2,0.006879719466986245,RF,Calle Embajadores
+Calle Ronda de Valencia_O-E_t-1,0.006836015582767629,RF,Calle Embajadores
+festivo,0.0,RF,Calle Embajadores
+AEMET_prec,-0.0015703220116016325,RF,Calle Embajadores
+Avenida de Oporto_O-E_t-3,-0.009464006617589149,RF,Calle Embajadores
+Calle Méndez Álvaro_N-S_t-2,-0.012185065775523895,RF,Calle Embajadores
+Paseo de Extremadura_E-O_t-3,-0.018353108413604956,RF,Calle Embajadores
+Calle Méndez Álvaro_N-S_t-3,-0.022358177602551165,RF,Calle Embajadores
+Calle Embajadores_O-E_t-2,-0.027285333826733905,RF,Calle Embajadores
+Calle Silvano_O-E_t-3,-0.02995737207487679,RF,Calle Embajadores
+Calle Embajadores_O-E_t-1,-0.03238489083870775,RF,Calle Embajadores
+Paseo de Extremadura_O-E_t-1,-0.03361107128671463,RF,Calle Embajadores
+Avenida de Oporto_O-E_t-2,-0.03444307511949631,RF,Calle Embajadores
+Calle Alcocer_O-E_t-1,-0.03644892566116411,RF,Calle Embajadores
+Avenida Rafaela Ybarra_N-S_t-1,-0.036629416723796736,RF,Calle Embajadores
+Calle de Marcelo Usera_O-E_t-3,-0.03906511780224307,RF,Calle Embajadores
+Calle de Gran Vía de San Francisco_N-S_t-3,-0.04109529889464767,RF,Calle Embajadores
+Avenida Rafaela Ybarra_S-N_t-1,-0.0454645914108589,RF,Calle Embajadores
+Calle de Gran Vía de San Francisco_N-S_t-1,-0.04548370008313114,RF,Calle Embajadores
+Paseo de Extremadura_O-E_t-2,-0.048356863175634146,RF,Calle Embajadores
+Calle Ronda de Valencia_E-O_t-1,-0.052222149126617975,RF,Calle Embajadores
+Calle Alcocer_O-E_t-2,-0.05758852402908303,RF,Calle Embajadores
+Avenida Rafaela Ybarra_S-N_t-3,-0.06670114951402155,RF,Calle Embajadores
+Calle Embajadores_O-E_t-3,-0.07155948150225058,RF,Calle Embajadores
+Calle de Gran Vía de San Francisco_N-S_t-2,-0.072525626673918,RF,Calle Embajadores
+Avenida de Oporto_O-E_t-1,-0.0729620748248017,RF,Calle Embajadores
+Paseo de Extremadura_E-O_t-1,-0.07746274194091214,RF,Calle Embajadores
+Calle de Marcelo Usera_O-E_t-2,-0.08714122289903514,RF,Calle Embajadores
+Calle Embajadores_E-O_t-3,-0.09041574602290012,RF,Calle Embajadores
+Calle Silvano_O-E_t-2,-0.09199463147774053,RF,Calle Embajadores
+Calle de Gran Vía de San Francisco_S-N_t-2,-0.10041133224851535,RF,Calle Embajadores
+Avenida Rafaela Ybarra_S-N_t-2,-0.10500029372353978,RF,Calle Embajadores
+Paseo de Santa María de la Cabeza_S-N_t-3,-0.11599403543570333,RF,Calle Embajadores
+Calle Silvano_E-O_t-2,-0.12045905323623032,RF,Calle Embajadores
+Calle de Marcelo Usera_O-E_t-1,-0.13918248276909181,RF,Calle Embajadores
+Calle Alcocer_O-E_t-3,-0.14154166462679924,RF,Calle Embajadores
+Calle Méndez Álvaro_S-N_t-3,-0.15280559610478334,RF,Calle Embajadores
+Calle Alcocer_E-O_t-2,-0.1560563642486464,RF,Calle Embajadores
+Paseo de Santa María de la Cabeza_N-S_t-2,-0.18948092195135757,RF,Calle Embajadores
+Calle Alcocer_E-O_t-1,-0.19786401908302126,RF,Calle Embajadores
+Calle Silvano_E-O_t-3,-0.20360557987186353,RF,Calle Embajadores
+Paseo de Santa María de la Cabeza_N-S_t-1,-0.23091009108017319,RF,Calle Embajadores
+Calle Toledo_S-N_t-3,-0.24692594197816006,RF,Calle Embajadores
+Paseo de Santa María de la Cabeza_S-N_t-2,-0.30690911281736605,RF,Calle Embajadores
+Calle Ronda de Valencia_O-E_t-3,-0.3698500507937503,RF,Calle Embajadores
+Calle Alcocer_E-O_t-3,-0.4307480517790275,RF,Calle Embajadores
+Calle de Gran Vía de San Francisco_S-N_t-3,-0.4863965591839758,RF,Calle Embajadores
+Calle Méndez Álvaro_S-N_t-2,-0.5538332561691938,RF,Calle Embajadores

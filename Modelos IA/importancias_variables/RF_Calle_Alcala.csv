@@ -1,0 +1,53 @@
+feature,importance,modelo,calle
+Calle Alcalá_E-O_t-1,199.6010964883565,RF,Calle Alcalá
+Calle Camino de Vinateros_E-O_t-1,94.45195668103528,RF,Calle Alcalá
+Avenida de la Albufera_O-E_t-1,15.313836332845819,RF,Calle Alcalá
+dia_semana,14.93918283609725,RF,Calle Alcalá
+Avenida Menéndez Pelayo_S-N_t-1,11.587936859050993,RF,Calle Alcalá
+Calle Alcalá_E-O_t-2,4.933059097841176,RF,Calle Alcalá
+Avenida de la Albufera_E-O_t-3,4.550353583952086,RF,Calle Alcalá
+Calle José Ortega y Gasset_E-O_t-3,3.381672290066794,RF,Calle Alcalá
+Calle Doctor Esquerdo_N-S_t-3,3.2958422396412645,RF,Calle Alcalá
+Calle Alcalá_E-O_t-3,2.7560581591364355,RF,Calle Alcalá
+Avenida Arcentales_O-E_t-2,2.5977977791451052,RF,Calle Alcalá
+Calle Alcalá_O-E_t-1,2.4752542030736064,RF,Calle Alcalá
+Calle San Cipriano_O-E_t-3,0.9466014364970945,RF,Calle Alcalá
+Avenida Menéndez Pelayo_N-S_t-3,0.9012883157936571,RF,Calle Alcalá
+Avenida Arcentales_E-O_t-3,0.860208528711216,RF,Calle Alcalá
+Calle San Cipriano_E-O_t-1,0.7932430663818991,RF,Calle Alcalá
+Calle Alcalá_O-E_t-3,0.7901187431625786,RF,Calle Alcalá
+Calle Camino de Vinateros_E-O_t-2,0.7193209864227399,RF,Calle Alcalá
+Calle Doctor Esquerdo_N-S_t-2,0.6703815348883608,RF,Calle Alcalá
+Calle San Cipriano_E-O_t-3,0.6360486891960633,RF,Calle Alcalá
+Calle Doctor Esquerdo_S-N_t-2,0.6305480914606278,RF,Calle Alcalá
+Avenida Arcentales_E-O_t-2,0.5100808139551418,RF,Calle Alcalá
+Avenida de la Albufera_O-E_t-3,0.5096641528773602,RF,Calle Alcalá
+Calle Doctor Esquerdo_S-N_t-3,0.47798429437113443,RF,Calle Alcalá
+Avenida Arcentales_E-O_t-1,0.4770029764979398,RF,Calle Alcalá
+Avenida Arcentales_O-E_t-3,0.4689797018685681,RF,Calle Alcalá
+Calle Doctor Esquerdo_N-S_t-1,0.44741201925226903,RF,Calle Alcalá
+Calle Camino de Vinateros_O-E_t-3,0.3446259900487675,RF,Calle Alcalá
+Avenida Menéndez Pelayo_N-S_t-2,0.31183368698223574,RF,Calle Alcalá
+Calle Camino de Vinateros_E-O_t-3,0.27168613631929617,RF,Calle Alcalá
+Calle Doctor Esquerdo_S-N_t-1,0.23334209604344097,RF,Calle Alcalá
+Avenida Menéndez Pelayo_S-N_t-3,0.23138666893079715,RF,Calle Alcalá
+Avenida Arcentales_O-E_t-1,0.2229514235496552,RF,Calle Alcalá
+Calle José Ortega y Gasset_O-E_t-3,0.2083941592594897,RF,Calle Alcalá
+Avenida de la Albufera_O-E_t-2,0.1902381261105063,RF,Calle Alcalá
+Calle San Cipriano_O-E_t-1,0.17142274229742754,RF,Calle Alcalá
+Calle José Ortega y Gasset_E-O_t-2,0.16069936874995677,RF,Calle Alcalá
+Avenida de la Albufera_E-O_t-1,0.14920882690933865,RF,Calle Alcalá
+Avenida de la Albufera_E-O_t-2,0.13809144713898008,RF,Calle Alcalá
+AEMET_tmed,0.13414091841484463,RF,Calle Alcalá
+Calle José Ortega y Gasset_O-E_t-1,0.0996623051945349,RF,Calle Alcalá
+Calle Alcalá_O-E_t-2,0.09870162646537609,RF,Calle Alcalá
+Avenida Menéndez Pelayo_S-N_t-2,0.09434508996637306,RF,Calle Alcalá
+Calle José Ortega y Gasset_O-E_t-2,0.07447303296289362,RF,Calle Alcalá
+Calle Camino de Vinateros_O-E_t-2,0.060614340134124235,RF,Calle Alcalá
+Calle Camino de Vinateros_O-E_t-1,0.03082015825059443,RF,Calle Alcalá
+Calle San Cipriano_O-E_t-2,0.026986635797381097,RF,Calle Alcalá
+Calle San Cipriano_E-O_t-2,0.026672069488330407,RF,Calle Alcalá
+Avenida Menéndez Pelayo_N-S_t-1,0.018649358592846,RF,Calle Alcalá
+AEMET_prec,0.0023659200823374247,RF,Calle Alcalá
+festivo,-8.526512829121202e-15,RF,Calle Alcalá
+Calle José Ortega y Gasset_E-O_t-1,-0.02084481701450045,RF,Calle Alcalá

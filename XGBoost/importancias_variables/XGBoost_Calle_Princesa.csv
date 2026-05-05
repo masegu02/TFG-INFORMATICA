@@ -1,0 +1,44 @@
+feature,importance,modelo,calle
+Calle Princesa_N-S_t-1,68.63292770385742,XGBoost,Calle Princesa
+Calle Alberto Aguilera_O-E_t-1,45.52708511352539,XGBoost,Calle Princesa
+Paseo de El Prado_S-N_t-1,9.57988395690918,XGBoost,Calle Princesa
+Calle Alberto Aguilera_E-O_t-2,3.862997055053711,XGBoost,Calle Princesa
+Paseo Infanta Isabel_O-E_t-2,2.410029983520508,XGBoost,Calle Princesa
+Calle Alberto Aguilera_E-O_t-1,2.231481170654297,XGBoost,Calle Princesa
+Paseo Infanta Isabel_E-O_t-2,1.3664012908935548,XGBoost,Calle Princesa
+Calle Alberto Aguilera_E-O_t-3,1.2319351196289063,XGBoost,Calle Princesa
+Calle Princesa_S-N_t-1,1.1787593841552735,XGBoost,Calle Princesa
+Calle Princesa_N-S_t-3,0.799587631225586,XGBoost,Calle Princesa
+Paseo de El Prado_N-S_t-1,0.5360355377197266,XGBoost,Calle Princesa
+dia_semana,0.48857955932617186,XGBoost,Calle Princesa
+Calle Princesa_S-N_t-2,0.4113761901855469,XGBoost,Calle Princesa
+Calle Mayor_O-E_t-2,0.3801734924316406,XGBoost,Calle Princesa
+Calle Mayor_O-E_t-1,0.37436866760253906,XGBoost,Calle Princesa
+Calle Alberto Aguilera_O-E_t-2,0.3726459503173828,XGBoost,Calle Princesa
+Calle Gran Vía_E-O_t-1,0.33962020874023435,XGBoost,Calle Princesa
+Calle Atocha_E-O_t-2,0.3360271453857422,XGBoost,Calle Princesa
+Paseo de El Prado_S-N_t-2,0.29497299194335935,XGBoost,Calle Princesa
+Paseo Infanta Isabel_O-E_t-3,0.27514305114746096,XGBoost,Calle Princesa
+Calle Gran Vía_E-O_t-2,0.22061309814453126,XGBoost,Calle Princesa
+Paseo de El Prado_N-S_t-2,0.1705230712890625,XGBoost,Calle Princesa
+Paseo de El Prado_S-N_t-3,0.1584552764892578,XGBoost,Calle Princesa
+Calle Alberto Aguilera_O-E_t-3,0.13016014099121093,XGBoost,Calle Princesa
+Calle Mayor_O-E_t-3,0.11178474426269532,XGBoost,Calle Princesa
+AEMET_tmed,0.07342300415039063,XGBoost,Calle Princesa
+Paseo de El Prado_N-S_t-3,0.055234527587890624,XGBoost,Calle Princesa
+Calle Princesa_N-S_t-2,0.029084396362304688,XGBoost,Calle Princesa
+Calle Gran Vía_O-E_t-1,0.027872848510742187,XGBoost,Calle Princesa
+AEMET_prec,0.027181625366210938,XGBoost,Calle Princesa
+Calle Princesa_S-N_t-3,0.025875091552734375,XGBoost,Calle Princesa
+Calle Gran Vía_E-O_t-3,0.018372344970703124,XGBoost,Calle Princesa
+Calle Atocha_E-O_t-1,0.011456298828125,XGBoost,Calle Princesa
+festivo,0.0,XGBoost,Calle Princesa
+Calle Gran Vía_O-E_t-2,-0.0085540771484375,XGBoost,Calle Princesa
+Paseo Infanta Isabel_E-O_t-1,-0.0205108642578125,XGBoost,Calle Princesa
+Calle Hortaleza_S-N_t-1,-0.10991630554199219,XGBoost,Calle Princesa
+Paseo Infanta Isabel_O-E_t-1,-0.11514816284179688,XGBoost,Calle Princesa
+Calle Hortaleza_S-N_t-2,-0.1268474578857422,XGBoost,Calle Princesa
+Calle Atocha_E-O_t-3,-0.14022064208984375,XGBoost,Calle Princesa
+Calle Gran Vía_O-E_t-3,-0.14271812438964843,XGBoost,Calle Princesa
+Calle Hortaleza_S-N_t-3,-0.15167198181152344,XGBoost,Calle Princesa
+Paseo Infanta Isabel_E-O_t-3,-0.3525054931640625,XGBoost,Calle Princesa
